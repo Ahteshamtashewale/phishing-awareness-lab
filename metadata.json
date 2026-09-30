@@ -1,0 +1,6 @@
+{
+  "name": "PhishDefend - Cybersecurity Awareness & Defense Lab",
+  "description": "An interactive cybersecurity virtual internship platform demonstrating authentication security, input validation, defensive checks, SIEM logging, and real-world phishing triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
